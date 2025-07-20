@@ -1,7 +1,5 @@
 # TCL WORKSHOP - Introduction to Advanced Scripting Techniques in Design and Synthesis
 
-![Workshop Banner](/docs/workshop_banner.jpg)
-
 # About
 
 A comprehensive 10 day training workshop that is designed to ignite your passion for TCL and equip you with the skills needed to excel in advanced scripting techniques required in the realm of EDA. 
