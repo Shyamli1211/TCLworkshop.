@@ -4,7 +4,7 @@
 
 # About
 
-A comprehensive 5 day training workshop that is designed to ignite your passion for TCL and equip you with the skills needed to excel in advanced scripting techniques required in the realm of EDA. 
+A comprehensive 10 day training workshop that is designed to ignite your passion for TCL and equip you with the skills needed to excel in advanced scripting techniques required in the realm of EDA. 
 
 Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemdesign.com/)
 
@@ -376,11 +376,6 @@ A TCL toolbox was created to which the design details were fed. The design detai
 
 # Acknowledgement
 
-The above work was carried out as a part of the 5-day workshop on TCL Programming organised by VLSI System Design. I am greatly indebted to Kunal Ghosh (course instructor), Geetima Kachari (TA) and the entire VSD Team for this great learning experience and immense guidance provided throughout the workshop.
+The above work was carried out as a part of the 10-day workshop on TCL Programming organised by VLSI System Design. I am greatly indebted to Kunal Ghosh (course instructor), Geetima Kachari (TA) and the entire VSD Team for this great learning experience and immense guidance provided throughout the workshop.
 
-# Bibliography
-
-1. [TCL in VLSI](https://chipedge.com/tcl-scripting-for-vlsi-a-brief-guide/#:~:text=TCL%20(Tool%20Command%20Language)%20is,tools%20are%20built%20on%20it.)
-2. [Yosys PPT](https://opencores.org/websvn/filedetails?repname=socgen&path=%2Fsocgen%2Ftrunk%2Ftools%2Fyosys%2Fyosys_presentation.pdf)
-3. [More on Procs](https://www.tutorialspoint.com/tcl-tk/tcl_procedures.htm)
 
